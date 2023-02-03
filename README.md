@@ -28,7 +28,7 @@ MIT - see license details [here][license-url]
 
 **Enjoy!**
 
-[version]: https://img.shields.io/badge/marketplace_-v0.1.0-orange
+[version]: https://img.shields.io/badge/marketplace_-v0.3.0-orange
 [license-badge]: https://img.shields.io/badge/license-MIT-blue
 
 [license-url]: https://github.com/OlegKrechkovskiy/liquid-extension-pack/blob/main/LICENSE.md

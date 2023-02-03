@@ -2,7 +2,7 @@
   "name": "liquid-extension-pack",
   "displayName": "Liquid Extension Pack",
   "description": "Extension Pack for liquid",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Oleg Krechkovskiy",
   "publisher": "myxlxal",
   "license": "SEE LICENSE IN LICENSE.md",
@@ -24,11 +24,10 @@
     "killalau.vscode-liquid-snippets"
   ],
   "keywords": [
-    "myxlxal",
-    "myx",
+    "liquid",
     "plastic",
     "themes",
-    "liquid",
+    "insales",
     "pack"
   ]
 }

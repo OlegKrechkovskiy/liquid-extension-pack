@@ -2,15 +2,15 @@
   "name": "liquid-extension-pack",
   "displayName": "Liquid Extension Pack",
   "description": "Extension Pack for liquid",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "author": "Oleg Krechkovskiy",
   "publisher": "myxlxal",
   "license": "SEE LICENSE IN LICENSE.md",
   "homepage": "https://github.com/OlegKrechkovskiy/liquid-extension-pack.git",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/OlegKrechkovskiy/liquid-extension-pack.git"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OlegKrechkovskiy/liquid-extension-pack.git"
+  },
   "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.74.0"
@@ -30,5 +30,5 @@
     "themes",
     "liquid",
     "pack"
-	]
+  ]
 }

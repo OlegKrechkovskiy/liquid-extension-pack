@@ -2,7 +2,7 @@
   "name": "liquid-extension-pack",
   "displayName": "Liquid Extension Pack",
   "description": "Extension Pack for liquid",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Oleg Krechkovskiy",
   "publisher": "myxlxal",
   "license": "SEE LICENSE IN LICENSE.md",
@@ -19,9 +19,9 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "killalau.vscode-liquid-snippets",
+    "myxlxal.plasticine",
     "neilding.language-liquid",
-    "myxlxal.plasticine"
+    "killalau.vscode-liquid-snippets"
   ],
   "keywords": [
     "myxlxal",

@@ -7,9 +7,9 @@ Minimalist VS Code Extension Pack for liquid.
 
 ## Included Extensions
 
+- [Plasticine][plasticine-ext-url]
 - [Liquid Languages Support][liquid-languages-support-ext-url]
 - [Shopify Liquid Template Snippets][shopify-liquid-template-snippets-ext-url]
-- [Plasticine][plasticine-ext-url]
 
 ## INSTALLATION
 - For correct work after installation, select the `Plasticine` color theme
@@ -28,7 +28,7 @@ MIT - see license details [here][license-url]
 
 **Enjoy!**
 
-[version]: https://img.shields.io/badge/marketplace_-v0.0.5-orange
+[version]: https://img.shields.io/badge/marketplace_-v0.0.6-orange
 [license-badge]: https://img.shields.io/badge/license-MIT-blue
 [version]: https://img.shields.io/badge/v0.0.2-orange
 [license-url]: https://github.com/OlegKrechkovskiy/liquid-extension-pack/blob/main/LICENSE.md

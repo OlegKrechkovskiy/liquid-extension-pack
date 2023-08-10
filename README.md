@@ -8,7 +8,7 @@ Minimalist VS Code Extension Pack for liquid.
 ## Included Extensions
 
 - [Plasticine][plasticine-ext-url]
-- [Liquid Languages Support][liquid-languages-support-ext-url]
+- [Liquid][liquid-languages-support-ext-url]
 - [Shopify Liquid Template Snippets][shopify-liquid-template-snippets-ext-url]
 
 ## INSTALLATION
@@ -35,6 +35,6 @@ MIT - see license details [here][license-url]
 [market-url]:https://marketplace.visualstudio.com/items?itemName=myxlxal.liquid-extension-pack
 
 
-[liquid-languages-support-ext-url]: https://marketplace.visualstudio.com/items?itemName=neilding.language-liquid
+[liquid-languages-support-ext-url]: https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid
 [shopify-liquid-template-snippets-ext-url]: https://marketplace.visualstudio.com/items?itemName=killalau.vscode-liquid-snippets
 [plasticine-ext-url]: https://marketplace.visualstudio.com/items?itemName=myxlxal.plasticine

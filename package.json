@@ -20,6 +20,7 @@
   ],
   "extensionPack": [
     "myxlxal.plasticine",
+    "neilding.language-liquid",
     "sissel.shopify-liquid",
     "killalau.vscode-liquid-snippets"
   ],
